@@ -1,0 +1,88 @@
+h1{
+    background-color: blue;
+    text-align: center;
+    
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+    
+}
+
+img{
+    margin: auto;
+    display: block;
+    box-shadow: -3px 33px 31px 1px rgba(0,0,0,0.75);
+}
+.destacados{
+    text-transform: lowercase;
+}
+.parafo1{
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    border-top: 5px double #ff6550;
+border-bottom: 5px double #ff6550;
+}
+.parafo2{
+    color: red;
+}
+#caja{
+    width: 150px;
+    height: 150px;
+    background-color:aliceblue;
+    padding: 5px;
+    border: 10px solid gold;
+    transform: translate(50px,-800Px);
+    
+}
+#contenedor{
+	border:1px solid #aaa;
+	background-color: #dddddd;
+	margin:0 auto;
+	width: 80%;
+	height: 150px;
+	position: relative;
+    transform: translate(0px,-100px);
+  
+	}
+
+
+#verde{
+	position:relative;
+	top: 0px;
+	left: 0px;
+	margin:0 auto;
+	height:20%;
+	width:94%;
+	border:1px solid #80BC3A;
+	margin-bottom:20px;
+	background-color: #98E53E;
+    text-align: center;
+    
+}
+
+#celeste{
+    position: relative;
+	margin: 0 auto;
+	height:20%;
+	width:94%;
+	border:1px solid #328EB2;
+	margin-bottom:20px;
+	background-color: #41B8E5;
+    text-align: center;
+    
+}
+
+#amarillo{
+    position: relative;
+	margin:0 auto;
+	height:20%;
+	width:94%;
+	border:1px solid #BCB43A;
+	margin-bottom:20px;
+	background-color: #E5DB3F;
+    text-align: center;
+}
+
